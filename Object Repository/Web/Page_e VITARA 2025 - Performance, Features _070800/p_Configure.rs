@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Configure</name>
+   <tag></tag>
+   <elementGuidId>e2293fac-bd34-41dd-9863-044185300edb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[3]/following::p[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Configure&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>84bb0a17-6c8d-4555-9278-f4e1a43f82ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configure</value>
+      <webElementGuid>b07a6e73-4749-488d-a790-4d492e073c9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;appear&quot;]/main[1]/div[@class=&quot;section perfect-comfort-id yy8-secondary-navigation-container yy8-banner-video-container yy8-highlight-tabs-container tab-item-active&quot;]/div[@class=&quot;yy8-secondary-navigation-wrapper&quot;]/div[@class=&quot;yy8-secondary-navigation block&quot;]/div[@class=&quot;secondary-navbar-container variation2&quot;]/nav[@class=&quot;secondary-navbar&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;buttons-list&quot;]/a[@class=&quot;nav-button&quot;]/p[1]</value>
+      <webElementGuid>27581a93-32e3-45c7-94e6-aece59aa377b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[3]/following::p[6]</value>
+      <webElementGuid>5c4d5759-853f-4103-a739-c59c11dd3ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[2]/following::p[8]</value>
+      <webElementGuid>7507562d-236b-4a56-8eef-d25079108ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Video'])[2]/preceding::p[3]</value>
+      <webElementGuid>95181c9a-ad8e-436e-8b13-00a890e6ebd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pause'])[1]/preceding::p[3]</value>
+      <webElementGuid>9968fc2f-eef6-4842-be21-940fe700a4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Configure']/parent::*</value>
+      <webElementGuid>20327519-5f35-43bb-905d-7c189fdbaed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]/p</value>
+      <webElementGuid>a7fd7854-879a-40a8-92ec-596421c28cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Configure' or . = 'Configure')]</value>
+      <webElementGuid>155ccbfc-c650-46f5-b862-613d44b2dbae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Design</name>
+   <tag></tag>
+   <elementGuidId>c5dcaca9-0ca0-46bb-83ae-b50eb17c78b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.secondary-navbar-container.variation2 > nav.secondary-navbar > div.buttons-container > div.buttons-list > a.nav-button.active > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[3]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Design&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3bd7d3f9-7b45-4e5a-9e36-3442a43bc599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Design</value>
+      <webElementGuid>a913e777-7486-4687-b1bf-943cf3d8e353</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;appear&quot;]/main[1]/div[@class=&quot;section perfect-comfort-id yy8-secondary-navigation-container yy8-banner-video-container yy8-highlight-tabs-container tab-item-active&quot;]/div[@class=&quot;yy8-secondary-navigation-wrapper&quot;]/div[@class=&quot;yy8-secondary-navigation block&quot;]/div[@class=&quot;secondary-navbar-container variation2&quot;]/nav[@class=&quot;secondary-navbar&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;buttons-list&quot;]/a[@class=&quot;nav-button active&quot;]/p[1]</value>
+      <webElementGuid>92fe10a0-9512-45e9-85c2-9a7f3e3c660c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[3]/following::p[1]</value>
+      <webElementGuid>352c02e2-3783-4450-9142-e9e1da163355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[2]/following::p[3]</value>
+      <webElementGuid>16a1390c-04df-49be-a527-c7bb552cb643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Video'])[2]/preceding::p[8]</value>
+      <webElementGuid>6d640366-7e77-4821-8fd6-26fabe0fd5e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pause'])[1]/preceding::p[8]</value>
+      <webElementGuid>24e7777a-0273-4cb0-a85f-1801e7514b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Design']/parent::*</value>
+      <webElementGuid>692281e4-e198-4b3f-95bb-828361c744c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/div/div/a/p</value>
+      <webElementGuid>76163c2f-e4fd-4f04-bf93-3cf4a81fb032</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Design' or . = 'Design')]</value>
+      <webElementGuid>a2dc11be-76d8-4d77-84d2-377f7e390e63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

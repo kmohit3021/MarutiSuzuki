@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001 - HD On Off</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd19dd6f-f9c1-4e7b-958e-63c57f8dbbf5</testCaseGuid>
+</TestCaseEntity>

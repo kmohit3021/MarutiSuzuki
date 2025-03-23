@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Comfort</name>
+   <tag></tag>
+   <elementGuidId>05841fb7-e129-452f-8d81-11309001c041</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[3]/following::p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Comfort&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>032ce8dd-477e-46f8-af17-d6a578b63ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Comfort</value>
+      <webElementGuid>3817ed00-052c-4da5-ba17-282c67846b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;appear&quot;]/main[1]/div[@class=&quot;section perfect-comfort-id yy8-secondary-navigation-container yy8-banner-video-container yy8-highlight-tabs-container tab-item-active&quot;]/div[@class=&quot;yy8-secondary-navigation-wrapper&quot;]/div[@class=&quot;yy8-secondary-navigation block&quot;]/div[@class=&quot;secondary-navbar-container variation2&quot;]/nav[@class=&quot;secondary-navbar&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;buttons-list&quot;]/a[@class=&quot;nav-button&quot;]/p[1]</value>
+      <webElementGuid>44625dba-c9db-441f-b43e-7233aef65818</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[3]/following::p[2]</value>
+      <webElementGuid>3f4f90c0-a133-4e35-8109-c69ad7a58bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[2]/following::p[4]</value>
+      <webElementGuid>ce89631a-d415-488e-b808-eaaad1efdc78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Video'])[2]/preceding::p[7]</value>
+      <webElementGuid>ec9f219a-53ee-499b-b149-204e76d4599c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pause'])[1]/preceding::p[7]</value>
+      <webElementGuid>fc22f889-e125-46f6-a616-facd24d4c04b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Comfort']/parent::*</value>
+      <webElementGuid>d004fb63-6b0e-4de2-809a-448050759e64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nav/div/div/a[2]/p</value>
+      <webElementGuid>5cb9fc65-86c6-4937-9ba3-5b34627ba978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Comfort' or . = 'Comfort')]</value>
+      <webElementGuid>f190625d-a826-4ba4-9d40-4b0a726b8a23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Safety</name>
+   <tag></tag>
+   <elementGuidId>e88c458f-ec70-444b-9608-a56c3c55144c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[3]/following::p[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Safety&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b6353ae1-3a27-4959-b04a-2b95c3a54d92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Safety</value>
+      <webElementGuid>0e193d06-c3a8-4645-92cd-204858beaa92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;appear&quot;]/main[1]/div[@class=&quot;section perfect-comfort-id yy8-secondary-navigation-container yy8-banner-video-container yy8-highlight-tabs-container tab-item-active&quot;]/div[@class=&quot;yy8-secondary-navigation-wrapper&quot;]/div[@class=&quot;yy8-secondary-navigation block&quot;]/div[@class=&quot;secondary-navbar-container variation2&quot;]/nav[@class=&quot;secondary-navbar&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;buttons-list&quot;]/a[@class=&quot;nav-button&quot;]/p[1]</value>
+      <webElementGuid>debc07ea-054b-4ec0-be73-2f31a7686cc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[3]/following::p[4]</value>
+      <webElementGuid>3886290d-5a2b-4ab0-8b78-37b8d6379965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[2]/following::p[6]</value>
+      <webElementGuid>0361ee12-8e27-4a8f-9d8f-01a584a21713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Video'])[2]/preceding::p[5]</value>
+      <webElementGuid>7f56b483-f04c-4eea-91f6-a83a058fc435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pause'])[1]/preceding::p[5]</value>
+      <webElementGuid>183ab7e1-3bc8-4fd4-97d2-dbcafab7831c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Safety']/parent::*</value>
+      <webElementGuid>df1e3b45-4e47-4c7b-a1d2-581f5239b7df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/p</value>
+      <webElementGuid>bca7858f-d741-4461-9f89-a7890daf4dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Safety' or . = 'Safety')]</value>
+      <webElementGuid>e5660a53-be5e-417b-9dc2-b7441e6e19b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

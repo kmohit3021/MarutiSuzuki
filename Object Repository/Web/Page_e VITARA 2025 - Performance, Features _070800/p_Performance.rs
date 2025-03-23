@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Performance</name>
+   <tag></tag>
+   <elementGuidId>14511a71-1f92-48c5-a4f7-d01220f3c602</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[3]/following::p[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Performance&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>59491ba3-ec65-42c6-a66c-08a55bcd6e6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Performance</value>
+      <webElementGuid>3e9af2b4-fe8f-42e2-a6d4-65ffb0f783e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;appear&quot;]/main[1]/div[@class=&quot;section perfect-comfort-id yy8-secondary-navigation-container yy8-banner-video-container yy8-highlight-tabs-container tab-item-active&quot;]/div[@class=&quot;yy8-secondary-navigation-wrapper&quot;]/div[@class=&quot;yy8-secondary-navigation block&quot;]/div[@class=&quot;secondary-navbar-container variation2&quot;]/nav[@class=&quot;secondary-navbar&quot;]/div[@class=&quot;buttons-container&quot;]/div[@class=&quot;buttons-list&quot;]/a[@class=&quot;nav-button&quot;]/p[1]</value>
+      <webElementGuid>8054a3b3-3a47-4d0e-b79f-c1253b003cfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[3]/following::p[3]</value>
+      <webElementGuid>6ebb91bc-6bbb-4537-82b2-f4375b834474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e VITARA'])[2]/following::p[5]</value>
+      <webElementGuid>de8e522b-714e-47ae-8384-69eead347e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Play Video'])[2]/preceding::p[6]</value>
+      <webElementGuid>c9314c13-8b62-42b9-8fea-e79c3ac76f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pause'])[1]/preceding::p[6]</value>
+      <webElementGuid>fade8b37-4394-4fe0-9e52-264a74a23c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Performance']/parent::*</value>
+      <webElementGuid>19cc5722-284c-4a8b-b1d7-9a5d7a6d1942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/p</value>
+      <webElementGuid>e4898779-7968-466e-8eff-c57c7689e1b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Performance' or . = 'Performance')]</value>
+      <webElementGuid>77ac8079-a28f-4e60-9d5f-ae6de0cbd97c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

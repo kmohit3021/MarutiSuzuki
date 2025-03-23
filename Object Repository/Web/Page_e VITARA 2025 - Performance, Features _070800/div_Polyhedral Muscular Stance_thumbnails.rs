@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Polyhedral Muscular Stance_thumbnails</name>
+   <tag></tag>
+   <elementGuidId>8e50ef7c-ce5d-4dea-a6e2-2650d712e6f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#futuristic--spacious-cabin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>((.//*[normalize-space(text()) and normalize-space(.)='Polyhedral Muscular Stance'])[1]/following::div[@class='thumbnail' or @class='thumbnail highlight'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Futuristic &amp; Spacious Cabin&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>69b80361-5283-4bf4-8dff-f6048fc96c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>futuristic--spacious-cabin</value>
+      <webElementGuid>79d1ccdd-4ee8-4d72-bd9f-a58c81e44a6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading-text</value>
+      <webElementGuid>003a1d4c-bdbe-4509-a3de-9816029c62e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Futuristic &amp; Spacious Cabin</value>
+      <webElementGuid>8ef5fe3f-66f7-4cc1-987d-664a70193dbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;futuristic--spacious-cabin&quot;)</value>
+      <webElementGuid>ce77cac3-9b09-4f3c-a00b-1d122a524234</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='futuristic--spacious-cabin']</value>
+      <webElementGuid>98e20937-3500-4cba-8bb1-044f40db56ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='interior-block']/div/div[2]/div/h2</value>
+      <webElementGuid>700db94f-10c0-4f52-878f-237c8d715d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Modal Dialog'])[3]/following::h2[1]</value>
+      <webElementGuid>e1141d16-632d-47b1-88a1-7361571c7949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[3]/following::h2[1]</value>
+      <webElementGuid>f1c70754-8892-4100-aa1b-79717e9f5157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ambient Lighting With Multi Colour Illumination'])[1]/preceding::h2[1]</value>
+      <webElementGuid>a33ffbcc-b55b-4526-bc43-347951a4f670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twindeck Floating Console With Shift By Wire'])[1]/preceding::h2[1]</value>
+      <webElementGuid>3d500061-5128-4813-991b-1c9e1c39cb42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Futuristic &amp; Spacious Cabin']/parent::*</value>
+      <webElementGuid>0a7afa89-110a-4ef0-a562-e449991154f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/h2</value>
+      <webElementGuid>e8acefe8-7c20-4579-86ec-514189338334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'futuristic--spacious-cabin' and (text() = 'Futuristic &amp; Spacious Cabin' or . = 'Futuristic &amp; Spacious Cabin')]</value>
+      <webElementGuid>51ca1a2f-5894-4f75-bbef-5827a180401f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
